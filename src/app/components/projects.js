@@ -1,0 +1,47 @@
+
+export const projects = [
+    {
+      title: "E-commerce Platform",
+      description: "A full-featured e-commerce platform built with Next.js and TypeScript",
+      technologies: ["Next.js", "TypeScript", "Tailwind CSS", "Stripe"],
+      image: "/project1.jpg",
+      show: true,
+      category: "web",
+    },
+    {
+      title: "Blog Pessoal",
+      description: "Um blog moderno para compartilhar artigos e ideias.",
+      technologies: ["Next.js", "Markdown", "CSS Modules"],
+      image: "/project2.jpg",
+      link: "https://github.com/yourusername/personal-blog",
+      show: true,
+      category: "web",
+    },
+    {
+      title: "App de Notas Móvel",
+      description: "Aplicativo de notas intuitivo para iOS e Android.",
+      technologies: ["React Native", "Expo", "Firebase"],
+      image: "/project3.jpg",
+      link: "https://github.com/yourusername/mobile-notes-app",
+      show: true,
+      category: "mobile",
+    },
+    {
+      title: "Jogo 2D WebGL",
+      description: "Pequeno jogo de plataforma construído com WebGL.",
+      technologies: ["JavaScript", "WebGL", "HTML5 Canvas"],
+      image: "/project4.jpg",
+      link: "https://github.com/yourusername/webgl-game",
+      show: true,
+      category: "web",
+    },
+    {
+      title: "CRUD de Usuários API",
+      description: "API RESTful para gerenciamento de usuários.",
+      technologies: ["Node.js", "Express", "MongoDB"],
+      image: "/project5.jpg",
+      link: "https://github.com/yourusername/user-api",
+      show: true,
+      category: "backend",
+    },
+  ];
