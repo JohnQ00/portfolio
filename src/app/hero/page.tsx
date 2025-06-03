@@ -23,8 +23,7 @@ export default function Hero() {
               Hello there, I'm John Pires 👋
             </h1>
             <p className="text-lg text-gray-600 max-w-xl">
-              I'm a frontend developer passionate about building beautiful and
-              performant web apps.
+              I'm a Machine Learning Engineer passionate about creating solutions, just as this, making people's life easier somehow.
             </p>
           </div>
           <div className="flex gap-6">
